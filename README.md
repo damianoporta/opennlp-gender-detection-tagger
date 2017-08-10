@@ -56,3 +56,13 @@ porta
 ```
 0.99395
 ```
+
+### LINKS
+
+OpenNLP
+http://opennlp.apache.org
+
+### LICENSE
+
+The model is released under Apache License, version 2.0
+(http://www.apache.org/licenses/LICENSE-2.0.html).
